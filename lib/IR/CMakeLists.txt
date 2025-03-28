@@ -24,6 +24,7 @@ add_llvm_library(LLVMCore
   GCOV.cpp
   GVMaterializer.cpp
   Globals.cpp
+  Exporter.cpp
   IRBuilder.cpp
   IRPrintingPasses.cpp
   InlineAsm.cpp
